@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Gutzcybersec/Gutzcybersec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Analysis and Development** student passionate about **cybersecurity**. I'm learning **monitoring and incident response** with tools like **SIEM**, **IDS/IPS**, and **pentest**.
 
-Here are some ideas to get you started:
+## 🔒 About Me
+- 📚 IT student exploring fundamentals of hardware, software, Microsoft Office, IT service management best practices, and **Brazil's General Data Protection Law (LGPD)**.
+- 💻 Excited to protect systems from digital threats, focusing on secure and ethical solutions.
+- 🌱 Studying cybersecurity to gain hands-on skills and contribute to a safer digital world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Technologies (learning)**: SIEM, IDS/IPS, Pentest
+- **Other Skills**: IT best practices, LGPD, Microsoft Office
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/gustavo-luiz-pejanoski-069521232/)
